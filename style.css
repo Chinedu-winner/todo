@@ -1,0 +1,23 @@
+body{
+    background-image: url(./download.jfif)
+}
+.blue{
+    margin-top: 100px;
+    margin-left: 600px;
+    color: blue;
+    font-size: 50px;
+}
+.card{
+    font-size: 40px;
+    padding: 20px;
+    outline: 3px solid black;
+}
+.gold{
+    font-size: 20px;
+    padding: 22px;
+    margin-top: 5px;
+    outline: 2px solid black;
+}
+.hospital{
+    margin-left: 50px;
+}
